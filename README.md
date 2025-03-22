@@ -12,7 +12,8 @@
 2. Add indicators  
 3. Define entry/exit signals  
 4. Implement the strategy  
-5. Backtest   
+5. Backtest
+6. Parameter Optimization
 
 ---
 
@@ -33,4 +34,12 @@
 - Only one trade open at a time  
 - SL/TP based on:
   - `TPSL` ratio  
-  - `SL_coef` derived from ATR  
+  - `SL_coef` derived from ATR
+---
+
+## Result
+![image](https://github.com/user-attachments/assets/17213bec-4bdf-44d0-957e-be797546b86b)
+
+## Parameter Optimization result
+![image](https://github.com/user-attachments/assets/9704642c-277b-4970-9bc8-6257a1032fa3)
+
