@@ -1,13 +1,12 @@
 # 📈 Trading
 
-## 🔧 What You’ll Learn
+## What You’ll Learn
 - Implement a trading strategy  
 - Backtest it using historical data  
-- Optimize key parameters  
 
 ---
 
-## 🧩 Strategy Development Steps
+## Strategy Development Steps
 
 1. Download price data  
 2. Add indicators  
@@ -17,7 +16,7 @@
 
 ---
 
-## 💡 Bollinger Scalping Strategy  
+## Bollinger Scalping Strategy  
 **Timeframe:** 5-minute candles
 
 ### Indicators
